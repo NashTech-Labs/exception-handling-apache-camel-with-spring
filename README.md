@@ -4,3 +4,5 @@ This Template will help you for Exception handling with spring using Apache Came
 - JDK 1.8 or more download
 - Maven 3.6.1 
 - Greenwich.SR2
+## How to run the starter project?
+- To run the service: Start the MainApplication.
